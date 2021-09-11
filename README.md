@@ -1,4 +1,4 @@
-# Simple but cool and useful birthday countdown app "For You" 😽
+# Simple but pretty cool birthday countdown app "For You" 😽
 
 Don't forget to star⭐ the repo if you like what you i have created😉.
 [![Github Follow](https://img.shields.io/github/followers/ruslanbek0809?style=social)](https://github.com/Ruslanbek0809)
@@ -7,7 +7,6 @@ Don't forget to star⭐ the repo if you like what you i have created😉.
 ## 📸 ScreenShots
 
 | 1 |
-|------|-------|
 |<img src="assets/screen_sample.gif" width="250">|
 
 # ✨ Requirements
