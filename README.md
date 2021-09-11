@@ -6,8 +6,7 @@ Don't forget to star⭐ the repo if you like what you i have created😉.
 
 ## 📸 GIF of a sample app screen
 
-| 1 |
-|<img src="assets/screen_sample.gif" width="250">|
+<img src="assets/screen_sample.gif" width="250">
 
 # ✨ Requirements
 - Paste timestamp of birthday date. Steps of how to do shown on main.dart file. You can use https://www.unixtimestamp.com/index.php for conversion of date to timestamp
