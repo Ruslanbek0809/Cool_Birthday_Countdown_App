@@ -1,6 +1,6 @@
 # Simple but pretty cool birthday countdown app "For You" 😽
 
-Don't forget to star⭐ the repo if you like what you i have created😉.
+Don't forget to star⭐ the repo if you like what you I have created😉.
 [![Github Follow](https://img.shields.io/github/followers/ruslanbek0809?style=social)](https://github.com/Ruslanbek0809)
 
 
@@ -9,7 +9,7 @@ Don't forget to star⭐ the repo if you like what you i have created😉.
 <img src="assets/screen_sample.gif" width="250">
 
 # ✨ Requirements
-- Paste timestamp of birthday date. Steps of how to do shown on main.dart file. You can use https://www.unixtimestamp.com/index.php for conversion of date to timestamp
+- Paste timestamp of birthday date in main.dart file. You can use https://www.unixtimestamp.com/index.php for conversion of date to timestamp
 - Any Operating System (ie. MacOS X, Linux, Windows)
 - Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 - A little knowledge of Dart and Flutter
