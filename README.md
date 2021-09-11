@@ -4,7 +4,7 @@ Don't forget to star⭐ the repo if you like what you i have created😉.
 [![Github Follow](https://img.shields.io/github/followers/ruslanbek0809?style=social)](https://github.com/Ruslanbek0809)
 
 
-## 📸 ScreenShots
+## 📸 GIF of a sample app screen
 
 | 1 |
 |<img src="assets/screen_sample.gif" width="250">|
