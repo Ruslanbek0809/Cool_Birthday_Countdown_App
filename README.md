@@ -1,6 +1,6 @@
 # Simple but pretty cool birthday countdown app "For You" 😽
 
-Don't forget to star⭐ the repo if you like what you I have created😉.
+Don't forget to star⭐ the repo if you like what I have created😉.
 [![Github Follow](https://img.shields.io/github/followers/ruslanbek0809?style=social)](https://github.com/Ruslanbek0809)
 
 
