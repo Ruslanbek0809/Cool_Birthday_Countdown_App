@@ -1,6 +1,7 @@
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:flutter/material.dart';
-import 'package:slide_countdown_clock/slide_countdown_clock.dart';
+
+import 'library/library.dart';
 
 void main() => runApp(MyApp());
 
@@ -29,11 +30,11 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey();
-  DateTime currentBirthDate = DateTime.fromMillisecondsSinceEpoch(1631365440 *
+  DateTime currentBirthDate = DateTime.fromMillisecondsSinceEpoch(1662922800 *
       1000); //// TODO: Here paste timestamp of birthday date whom you want to congratulate
-  DateTime deadlineDate = DateTime.fromMillisecondsSinceEpoch(1631365500 *
+  DateTime deadlineDate = DateTime.fromMillisecondsSinceEpoch(1662926400 *
       1000); //// TODO: Here paste timestamp of duration date of display of animations
-  DateTime nextBirthDate = DateTime.fromMillisecondsSinceEpoch(1662901500 *
+  DateTime nextBirthDate = DateTime.fromMillisecondsSinceEpoch(1694458800 *
       1000); //// TODO: Here paste timestamp of next birthday date whom you want to celebrate for continuing date after deadline timestamp
 
   bool toogle = false;
